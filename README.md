@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi 👋, I'm Fotis
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-<!--
-**FotisVasilopoulos/FotisVasilopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&emsp;
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,nextjs,tailwind,sass,webpack,postman,github,discord,vscode&perline=14" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&emsp;
+<div align="start">
+  <details>
+    <summary>💻 GitHub Stats</summary>
+<img alt="FotisVasilopoulos' Github Stats" src="https://github-readme-stats-fotisvasilopoulos.vercel.app/api?username=FotisVasilopoulos&show_icons=true&hide=stars,issues&theme=dark" />
+  </details>
+</div>
